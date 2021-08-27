@@ -1,12 +1,12 @@
 # Hello, I'm Yves Emmanuel
 
-![python](https://img.shields.io/badge/python-Intermediate-yellow)
+![Python](https://img.shields.io/badge/Python-intermediate-yellow)
 ![R](https://img.shields.io/badge/R-beginner-black)
-![c](https://img.shields.io/badge/c-intermediate-brown)
-![cpp](https://img.shields.io/badge/cpp-intermediate-green)
-![verilog](https://img.shields.io/badge/verilog-intermediate-red)
-![html](https://img.shields.io/badge/html-intermediate-blue)
-![css](https://img.shields.io/badge/css-beginner-orange)
+![C](https://img.shields.io/badge/C-intermediate-brown)
+![Cpp](https://img.shields.io/badge/Cpp-intermediate-green)
+![Verilog](https://img.shields.io/badge/Verilog-intermediate-red)
+![HTML](https://img.shields.io/badge/HTML-intermediate-blue)
+![CSS](https://img.shields.io/badge/CSS-beginner-orange)
 
 - 🔭 **Computer Science** undergraduate at CIn-UFPE
 - 🌱 I’m currently learning **Data Analysis**
