@@ -10,4 +10,4 @@
 
 - 🔭 **Computer Science** undergraduate at CIn-UFPE
 - 🌱 I’m currently learning **Data Analysis**
-- ⚙️ Mastering: `.py`, `.r`, `.c`, `.cpp`, `.v`, `.html`, `.css`
+- ⚙️ Mastering: `.py`, `.r`, `.cpp`
