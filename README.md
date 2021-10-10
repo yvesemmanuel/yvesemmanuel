@@ -4,7 +4,7 @@
 ![Cpp](https://img.shields.io/badge/Cpp-intermediate-green)
 ![C](https://img.shields.io/badge/C-intermediate-brown)
 ![R](https://img.shields.io/badge/R-beginner-black)
-![HTML](https://img.shields.io/badge/HTML-intermediate-blue)
+![HTML](https://img.shields.io/badge/HTML-beginner-blue)
 ![CSS](https://img.shields.io/badge/CSS-beginner-orange)
 
 - 🔭 **Computer Science** undergraduate at CIn-UFPE
