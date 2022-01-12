@@ -9,5 +9,5 @@
 ![CSS](https://img.shields.io/badge/CSS-beginner-orange)
 
 - 🔭 **Computer Science** undergraduate at CIn-UFPE
-- 🌱 I’m currently learning **Data Analysis**
-- ⚙️ Mastering: `.py`, `.cpp`
+- 🌱 I’m currently learning **Web Development**
+- ⚙️ Mastering: `.py`, `.js`
