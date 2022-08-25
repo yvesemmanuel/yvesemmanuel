@@ -10,5 +10,5 @@
 ![R](https://img.shields.io/badge/R-beginner-black)
 
 - 🔭 **Computer Science** undergraduate at CIn-UFPE
-- 🌱 I’m currently a **Web Developer** at TCE-PE
+- 🌱 I’m currently a **Web Developer** at TCE-PE while studying Machine Learning!
 - ⚙️ Mastering: `.py`, `.js`
