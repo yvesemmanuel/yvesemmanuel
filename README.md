@@ -1,2 +1,2 @@
-- 🔭 **Computer Science** undergraduate at CIn-UFPE
+- 🔭 **Computer Science** Bachelor of Science in Computer Science at CIn-UFPE
 - 🧑🏽‍💻 I’m currently a **Data Scientist** and I'm interested in Machine Learning and Software Development.
