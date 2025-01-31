@@ -3,9 +3,9 @@
 Machine Learning Engineer passionate about NLP, AI fairness, and building scalable ML solutions.
 
 ## About Me
-🎓 Computer Science student at UFPE
-💼 Currently: Machine Learning Engineer at Neurotech
-🔬 Research interests: Natural Language Processing, Model Fairness, Transformer Architectures  
+- 🎓 Computer Science student at UFPE
+- 💼 Machine Learning Engineer at Neurotech
+- 🔬 Research interests: Natural Language Processing, Model Fairness, Transformer Architectures  
 
 ## Focus Areas
 - Machine Learning Engineering & MLOps
@@ -14,9 +14,9 @@ Machine Learning Engineer passionate about NLP, AI fairness, and building scalab
 - Data Science
 
 ## Recent Projects
-🤖 Fine-tuning & evaluating Transformer models for multiple NLP tasks
-📊 Disaster tweet classification using DistilBERT
-⚖️ Gender fairness analysis in medium-scale language models
+- 🤖 Fine-tuning & evaluating Transformer models for multiple NLP tasks
+- 📊 Disaster tweet classification using DistilBERT
+- ⚖️ Gender fairness analysis in medium-scale language models
 
 ---
 📫 Let's connect: [LinkedIn](your-linkedin) | [Email](mailto:yveemmanuel@gmail.com)
